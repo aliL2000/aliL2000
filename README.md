@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a5f&height=220&section=header&text=Ali%20Ladha&fontSize=52&fontColor=f1f5f9&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%E2%80%A2%20SQL%20%E2%80%A2%20Snowflake%20%E2%80%A2%20Power%20BI&descSize=17&descAlignY=58&descColor=7dd3fc)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=7DD3FC&center=true&vCenter=true&width=620&lines=SELECT+insight+FROM+data+WHERE+it_matters%3B;Turning+terrible+data+into+less+terrible+data.;Python+%7C+SQL+%7C+Snowflake+%7C+Power+BI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=7DD3FC&center=true&vCenter=true&width=620&lines=SELECT+MAX(revenue)+FROM+analysis%3B;Turning+terrible+data+into+less+terrible+data.;Python+%7C+SQL+%7C+Snowflake+%7C+Power+BI)](https://git.io/typing-svg)
 
 </div>
 
@@ -34,7 +34,10 @@
 
 ## 💡 About Me
 
-I``
+Software Developer turned Data Analyst. Currently working at PetValu as a Senior Product Data Analyst Bilingual. Primarily focused on Data Governance and Auditing. 
+
+Currently based in Toronto, ON.
+
 ---
 
 
