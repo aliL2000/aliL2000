@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a5f&height=220&section=header&text=Ali%20Ladha&fontSize=52&fontColor=f1f5f9&fontAlignY=38&desc=Data%20Analyst%20&descSize=17&descAlignY=58&descColor=7dd3fc)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a5f&height=220&section=header&text=Ali%20Ladha&fontSize=52&fontColor=f1f5f9&fontAlignY=38&desc=Senior%20Data%20Analyst%20&descSize=17&descAlignY=58&descColor=7dd3fc)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=7DD3FC&center=true&vCenter=true&width=620&lines=Python+%7C+SQL+%7C+Snowflake+%7C+Power+BI;Turning+terrible+data+into+less+terrible+data.;SELECT+MAX(revenue)+FROM+analysis;)](https://git.io/typing-svg)
 
